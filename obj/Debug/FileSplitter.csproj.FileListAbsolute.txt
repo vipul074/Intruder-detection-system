@@ -1,0 +1,149 @@
+C:\Users\somil\Downloads\Compressed\New folder (4)\obj\Debug\FileSplitter.exe
+C:\Users\somil\Downloads\Compressed\New folder (4)\obj\Debug\FileSplitter.pdb
+C:\Users\somil\Downloads\Compressed\New folder (4)\bin\Debug\FileSplitter.exe
+C:\Users\somil\Downloads\Compressed\New folder (4)\bin\Debug\FileSplitter.pdb
+C:\Users\somil\Downloads\Compressed\New folder (4)\obj\Debug\FileSplitter.Form1.resources
+C:\Users\somil\Downloads\Compressed\New folder (4)\obj\Debug\FileSplitter.Properties.Resources.resources
+C:\Users\somil\Downloads\Compressed\New folder (4)\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.exe
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.pdb
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.Properties.Resources.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+F:\COMPLETED SPLIT\New folder (4)\bin\Debug\FileSplitter.exe
+F:\COMPLETED SPLIT\New folder (4)\bin\Debug\FileSplitter.pdb
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.checkpassword.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.password.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.Master.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.protection.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.share.resources
+F:\COMPLETED SPLIT\New folder (4)\bin\Debug\Simplicit.Net.Lzo.dll
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.splitnjoin.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.compress.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.Encryption.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.home.resources
+F:\COMPLETED SPLIT\New folder (4)\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\CompressFolders.frmMain.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\howto_crypt_file.Form2.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\cafemanagement.Registration.resources
+F:\COMPLETED SPLIT\New folder (4)\bin\Debug\FileSplitter.exe.config
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\cafemanagement.Login.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.Download.resources
+F:\COMPLETED SPLIT\New folder (4)\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+F:\New folder (4)\obj\Debug\FileSplitter.checkpassword.resources
+F:\New folder (4)\obj\Debug\FileSplitter.compress.resources
+F:\New folder (4)\obj\Debug\FileSplitter.Download.resources
+F:\New folder (4)\obj\Debug\FileSplitter.Encryption.resources
+F:\New folder (4)\obj\Debug\howto_crypt_file.Form2.resources
+F:\New folder (4)\obj\Debug\CompressFolders.frmMain.resources
+F:\New folder (4)\obj\Debug\FileSplitter.home.resources
+F:\New folder (4)\obj\Debug\cafemanagement.Login.resources
+F:\New folder (4)\obj\Debug\cafemanagement.Registration.resources
+F:\New folder (4)\obj\Debug\FileSplitter.splitnjoin.resources
+F:\New folder (4)\obj\Debug\FileSplitter.Master.resources
+F:\New folder (4)\obj\Debug\FileSplitter.password.resources
+F:\New folder (4)\obj\Debug\FileSplitter.Properties.Resources.resources
+F:\New folder (4)\obj\Debug\FileSplitter.protection.resources
+F:\New folder (4)\obj\Debug\FileSplitter.share.resources
+F:\New folder (4)\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+F:\New folder (4)\bin\Debug\FileSplitter.exe.config
+F:\New folder (4)\bin\Debug\FileSplitter.exe
+F:\New folder (4)\bin\Debug\FileSplitter.pdb
+F:\New folder (4)\obj\Debug\FileSplitter.exe
+F:\New folder (4)\obj\Debug\FileSplitter.pdb
+H:\F drive\New folder (4)\bin\Debug\FileSplitter.exe.config
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.exe
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.pdb
+H:\F drive\New folder (4)\bin\Debug\FileSplitter.exe
+H:\F drive\New folder (4)\bin\Debug\FileSplitter.pdb
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.checkpassword.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.compress.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.Download.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.Encryption.resources
+H:\F drive\New folder (4)\obj\Debug\howto_crypt_file.Form2.resources
+H:\F drive\New folder (4)\obj\Debug\CompressFolders.frmMain.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.home.resources
+H:\F drive\New folder (4)\obj\Debug\cafemanagement.Login.resources
+H:\F drive\New folder (4)\obj\Debug\cafemanagement.Registration.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.splitnjoin.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.Master.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.password.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.Properties.Resources.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.protection.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.share.resources
+H:\F drive\New folder (4)\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+G:\F drive\New folder (4)\bin\Debug\FileSplitter.exe.config
+G:\F drive\New folder (4)\obj\Debug\FileSplitter.exe
+G:\F drive\New folder (4)\obj\Debug\FileSplitter.pdb
+F:\New folder (4)\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+D:\New folder (4)\bin\Debug\FileSplitter.exe.config
+D:\New folder (4)\obj\Debug\FileSplitter.exe
+D:\New folder (4)\obj\Debug\FileSplitter.pdb
+D:\New folder (4)\obj\Debug\cafemanagement.Login.resources
+D:\New folder (4)\obj\Debug\cafemanagement.Registration.resources
+D:\New folder (4)\obj\Debug\FileSplitter.Master.resources
+D:\New folder (4)\obj\Debug\FileSplitter.Properties.Resources.resources
+D:\New folder (4)\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+D:\New folder (4)\bin\Debug\FileSplitter.exe
+D:\New folder (4)\bin\Debug\FileSplitter.pdb
+D:\jiit\7th sem\major\final pprs\New folder (4)\bin\Debug\FileSplitter.exe.config
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\FileSplitter.exe
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\FileSplitter.pdb
+D:\jiit\7th sem\major\final pprs\New folder (4)\bin\Debug\FileSplitter.exe
+D:\jiit\7th sem\major\final pprs\New folder (4)\bin\Debug\FileSplitter.pdb
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\cafemanagement.Login.resources
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\cafemanagement.Registration.resources
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\FileSplitter.Master.resources
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\FileSplitter.Properties.Resources.resources
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\FileSplitter.home.resources
+D:\jiit\7th sem\major\final pprs\New folder (4)\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+C:\project\bin\Debug\FileSplitter.exe.config
+C:\project\obj\Debug\FileSplitter.exe
+C:\project\obj\Debug\FileSplitter.pdb
+C:\project\bin\Debug\FileSplitter.exe
+C:\project\bin\Debug\FileSplitter.pdb
+C:\project\obj\Debug\FileSplitter.home.resources
+C:\project\obj\Debug\cafemanagement.Login.resources
+C:\project\obj\Debug\cafemanagement.Registration.resources
+C:\project\obj\Debug\FileSplitter.Master.resources
+C:\project\obj\Debug\FileSplitter.Properties.Resources.resources
+C:\project\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+C:\project\obj\Debug\FileSplitter.splitnjoin.resources
+C:\project\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+C:\project\obj\Debug\FileSplitter.Download.resources
+C:\project\obj\Debug\FileSplitter.share.resources
+E:\himanshu\project\bin\Debug\FileSplitter.exe.config
+E:\himanshu\project\obj\Debug\FileSplitter.exe
+E:\himanshu\project\obj\Debug\FileSplitter.pdb
+E:\himanshu\project\bin\Debug\FileSplitter.exe
+E:\himanshu\project\bin\Debug\FileSplitter.pdb
+E:\himanshu\project\obj\Debug\FileSplitter.Download.resources
+E:\himanshu\project\obj\Debug\FileSplitter.home.resources
+E:\himanshu\project\obj\Debug\cafemanagement.Login.resources
+E:\himanshu\project\obj\Debug\cafemanagement.Registration.resources
+E:\himanshu\project\obj\Debug\FileSplitter.Master.resources
+E:\himanshu\project\obj\Debug\FileSplitter.Properties.Resources.resources
+E:\himanshu\project\obj\Debug\FileSplitter.splitnjoin.resources
+E:\himanshu\project\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+E:\himanshu\project\obj\Debug\FileSplitter.shareOld.resources
+E:\himanshu\project\obj\Debug\FileSplitter.share.resources
+E:\himanshu\project\obj\Debug\FileSplitter.Downloadold.resources
+E:\himanshu\project\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+E:\Intrusion detection window based\bin\Debug\FileSplitter.exe.config
+E:\Intrusion detection window based\obj\Debug\FileSplitter.exe
+E:\Intrusion detection window based\obj\Debug\FileSplitter.pdb
+E:\Intrusion detection window based\bin\Debug\FileSplitter.exe
+E:\Intrusion detection window based\bin\Debug\FileSplitter.pdb
+E:\Intrusion detection window based\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+E:\Intrusion detection window based\obj\Debug\FileSplitter.Download.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.Downloadold.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.home.resources
+E:\Intrusion detection window based\obj\Debug\cafemanagement.Login.resources
+E:\Intrusion detection window based\obj\Debug\cafemanagement.Registration.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.Master.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.Properties.Resources.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.share.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.shareOld.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.splitnjoin.resources
+E:\Intrusion detection window based\obj\Debug\FileSplitter.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileSplitter.Form1.resources
+obj\Debug\FileSplitter.Properties.Resources.resources
+obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+bin\Debug\FileSplitter.exe
+bin\Debug\FileSplitter.pdb
+obj\Debug\FileSplitter.exe
+obj\Debug\FileSplitter.pdb
